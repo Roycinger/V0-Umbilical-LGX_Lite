@@ -22,3 +22,11 @@
 | Part      | Quantity | Notes | Digikey Part Number | Link |
 | ----------- | :-: | ----------- | ----------- |----------- |
 | 0805 10uF Capacitor  |  3 | Not required for Neopixel Strips | 1276-2399-1-ND   | https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOCLRNC/3888057 |
+
+### Cable BOM
+| Part      | Quantity | Notes | Digikey Part Number | Link |
+| ----------- | :-: | ----------- | ----------- |----------- |
+| 16 pin Plug  |  2 | Molex 1053081216 | WM15025-ND   | https://www.digikey.de/de/products/detail/molex/1053081216/6164114?s=N4IgTCBcDaIIwAYCsBmBAOOY4DYQF0BfIA |
+| Nanofit Crimp  |  32 | Molex 1053002200 | WM14957CT-ND   | https://www.digikey.de/de/products/detail/molex/1053002200/6131599 |
+| 20AWG Wire  |  16 | 200-220mm sections |    |  |
+
