@@ -166,7 +166,7 @@ F 3 "~" H 2700 1600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 3050 1600 0    50   ~ 0
-Clicky_Sig
+Klicky_Sig
 Wire Wire Line
 	3600 1000 3600 1200
 $Comp
