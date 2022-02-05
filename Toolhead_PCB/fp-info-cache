@@ -1,4 +1,4 @@
-19628045508228325
+19631334650843136
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75214,6 +75214,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RaspberryPi
+QFN40P700X700X90-57N
+
+
+0
+57
+57
 Relay_SMD
 Relay_DPDT_AXICOM_IMSeries_JLeg
 http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FW5%7Fpdf%7FEnglish%7FENG_SS_108-98001_W5.pdf
@@ -77552,6 +77559,13 @@ BELFUSE_SS-52400-003
 0
 32
 32
+SnapEDA Library
+QFN40P700X700X90-57N
+
+
+0
+57
+57
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
