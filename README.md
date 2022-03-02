@@ -28,5 +28,5 @@
 | ----------- | :-: | ----------- | ----------- |----------- |
 | 16 pin Plug  |  2 | Molex 1053081216 | WM15025-ND   | https://www.digikey.de/de/products/detail/molex/1053081216/6164114?s=N4IgTCBcDaIIwAYCsBmBAOOY4DYQF0BfIA |
 | Nanofit Crimp  |  32 | Molex 1053002200 | WM14957CT-ND   | https://www.digikey.de/de/products/detail/molex/1053002200/6131599 |
-| 20AWG Wire  |  16 | 200-220mm sections |    |  |
+| 20AWG Wire  |  16 | 200-220mm sections. Smaller wire (i.e.24AWG can be used. Make sure to user proper wire size for heater and ground wires |    |  |
 
